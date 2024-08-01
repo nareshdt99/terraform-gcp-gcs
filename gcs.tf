@@ -12,3 +12,4 @@ resource "google_storage_bucket" "auto-expire1" {
   project = "hazel-freehold-430616-h4"
   public_access_prevention = "enforced"
 }
+##
